@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">YamsaferTask</string>
+    <string name="name">Standard Room Double</string>
+    <string name="rate_info">5 rates available from ₪ 387 (1 night)</string>
+    <string name="rate_message">rates available from ₪ 387 (1 night)</string>
+    <string name="rooms_message">All available rooms</string>
+    <string name="select_message">Selects rooms</string>
+    <string name="capacity">Up to 2 adults</string>
+    <string name="details_message">See more details</string>
+    <string name="option_message">OPTIONS</string>
+    <string name="price_message">TOTAL PRICE</string>
+    <string name="message_nights">Total(1 night)</string>
+    <string name="no_adults">2 adults</string>
+    <string name="refundable_message">Non-Refundable</string>
+    <string name="full_details">See full details</string>
+    <string name="message_add_rooms">Add rooms</string>
+    <string name="tab_0">PAY AT HOTEL</string>
+    <string name="tab_1">PRE-PAID</string>
+    <string name="tab_rate0">rates from ₪ 387</string>
+    <string name="tab_rate1">rates from ₪ 388</string>
+</resources>

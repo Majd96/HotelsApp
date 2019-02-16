@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#1E88E5</color>
+    <color name="name_color">#1565C0</color>
+    <color name="color_tab1">@android:color/holo_orange_light</color>
+    <color name="color_tab0">@android:color/holo_green_light</color>
+    <color name="select_message_color">#0D47A1</color>
+    <color name="gray">#E0E0E0</color>
+    <color name="gray_dark">#9E9E9E</color>
+
+
+</resources>
